@@ -1,0 +1,96 @@
+h1 {
+    color: #8E26C0;
+
+font-family: "JetBrains Mono";
+font-size: 64px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: capitalize;
+text-align: center;
+}
+
+#maindescription5{
+    color: #F00;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 565px;
+padding: 24px 40px;
+align-items: center;
+gap: 10px;
+background-color: #FFE8E8;
+}
+
+#maindescription {
+    color: #85647B;
+text-align: center;
+font-family: Lato;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background-color: #FFF;
+border-right: 6px solid #05F;
+border-left: 4px solid #C11574;
+border-bottom: 2px solid #7F56D9;
+border-top: 2px solid #00C76E;
+padding: 24px 40px;
+display: flex;
+width: 565px;
+padding: 24px 40px;
+align-items: center;
+
+}
+
+#maindescription2 {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color:#FFE8E8 ;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+}
+
+#maindescription3 {
+    color: #FF4405;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+background-color: #FFE8E8;
+}
+
+#maindescription4{
+    color: #0064CE;
+text-align: right;
+font-size: 32px;
+font-style: normal;
+font-weight: 40px;
+border: 2px solid #3538CD;
+display: flex;
+width: 1069px;
+padding: 24px 40px;
+align-items: center;
+gap: 10px;
+}
+
+img {
+    width: 556px;
+height: 347px;
+flex-shrink: 0;
+}
